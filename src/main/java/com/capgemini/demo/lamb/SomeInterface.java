@@ -7,6 +7,6 @@ public interface SomeInterface {
 
 //	void someMethod();
 //	public abstract void someOtherMethod();
-
+//lamb
 }
 
