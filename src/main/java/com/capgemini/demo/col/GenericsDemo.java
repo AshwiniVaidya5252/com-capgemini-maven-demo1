@@ -15,7 +15,7 @@ public static void main(String[] args) {
 //	marks.add(99.99);
 //	marks.add("abc");
 //	marks.add(false);
-	
+//  marks.add(true);	
 	System.out.println(marks);
 	
 }
