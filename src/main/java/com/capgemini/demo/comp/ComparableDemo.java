@@ -27,6 +27,7 @@ public class ComparableDemo {
 		System.out.println("Employees after sorting:");
 		for (Employee emp : empList) {
 			System.out.println(emp.toString());
+			//comp code
 		}
 	}
 
